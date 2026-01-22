@@ -14,7 +14,7 @@ Linux, MacOS or Windows (WSL)
 ## How to install
 
 ```bash
-$ git clone git@github.com:thedoorbell/fullstack-javascript-project-46.git
+$ git clone git@github.com:thedoorbell/genDiff.git
 ```
 ```bash
 $ npm install 
